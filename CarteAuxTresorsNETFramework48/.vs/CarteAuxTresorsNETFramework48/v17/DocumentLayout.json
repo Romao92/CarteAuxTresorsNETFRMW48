@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\romai\\Documents\\Developpement\\CarbonIT\\CarteAuxTresorsNETFramework48\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\romai\\Documents\\Developpement\\CarbonIT\\CarbonITCarteAuxTresorsNETFramework48\\CarteAuxTresorsNETFramework48\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58937D0F-DC84-4F12-856E-6E62555A0272}|CarteAuxTresorsNETFramework48.csproj|c:\\users\\romai\\documents\\developpement\\carbonit\\carbonitcarteauxtresorsnetframework48\\carteauxtresorsnetframework48\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58937D0F-DC84-4F12-856E-6E62555A0272}|CarteAuxTresorsNETFramework48.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\romai\\Documents\\Developpement\\CarbonIT\\CarbonITCarteAuxTresorsNETFramework48\\CarteAuxTresorsNETFramework48\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\romai\\Documents\\Developpement\\CarbonIT\\CarbonITCarteAuxTresorsNETFramework48\\CarteAuxTresorsNETFramework48\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T10:01:01.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

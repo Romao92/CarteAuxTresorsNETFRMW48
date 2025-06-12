@@ -13,3 +13,4 @@ obj/
 TestResults/
 *.DotSettings.user
 _ReSharper*/
+.vs/
