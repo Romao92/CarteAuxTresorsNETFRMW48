@@ -1,0 +1,18 @@
+12/06/2025 11:19:43---- début retour exec -----
+C - 3 - 4
+M - 1 - 0
+M - 2 - 1
+# {T comme Trésor} - {Axe horizontal} - {Axe vertical} - {Nb. de trésors restants}
+T - 2 - 3 - 2
+# {A comme Aventurier} - {Nom de l’aventurier} - {Axe horizontal} - {Axe vertical} - {Orientation} - {Nb. trésors ramassés}
+A - Alice - 0 - 1 - O - 0
+A - Tom - 0 - 3 - O - 1
+
+---- carte -----
+
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+A(T) . T(2)
+
+12/06/2025 11:19:43---- fin retour exec -----

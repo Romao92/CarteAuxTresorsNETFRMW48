@@ -1,0 +1,355 @@
+2025-06-12 11:24:25.1373 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (1, 1) orientation E
+2025-06-12 11:24:25.1660 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation S, position: (1,1) :
+2025-06-12 11:24:25.1660 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(B) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (1, 1) orientation S
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation O, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(B) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (1, 1) orientation O
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation N, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(B) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (1, 1) orientation N
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation E, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(B) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 1) orientation S
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Alice, orientation E, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 1) orientation E
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Alice, orientation N, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 1) orientation N
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Alice, orientation O, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 1) orientation O
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Alice, orientation S, position: (1,1) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 0) orientation S
+2025-06-12 11:24:25.2050 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 1) : Bob est déjà présent.
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation S, position: (1,0) :
+2025-06-12 11:24:25.2050 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(A) . 
+ . A(B) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 0) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 0)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation E, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(L)T(1)
+ .  M  . 
+T(2) . A(B)
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (2, 2) orientation N
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Bob avance vers (2, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation N, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(L)T(1)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 0) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (2, 0)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Lara
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation E, position: (2,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (2, 1) orientation N
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (2, 0) : Lara est déjà présent.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation N, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (2, 0) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation S, position: (2,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (2, 1) orientation N
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Bob, orientation O, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (2, 0) orientation S
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (2, 1) : Bob est déjà présent.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (2,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (2, 1) orientation O
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 1) : Bloqué par un montagne.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation O, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (2, 0) orientation S
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (2, 1) : Bob est déjà présent.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (2,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  M A(B)
+T(2) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lino commence en (0, 2) orientation S
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lino vers (0, 3) : hors des bornes.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lino, orientation S, position: (0,2) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ .  .  . 
+A(L) .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lino commence en (0, 0) orientation N
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lino vers (0, -1) : hors des bornes.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lino, orientation N, position: (0,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(L) .  . 
+ .  .  . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lino commence en (2, 0) orientation E
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lino vers (3, 0) : hors des bornes.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lino, orientation E, position: (2,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  . A(L)
+ .  .  . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lino commence en (0, 0) orientation O
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lino vers (-1, 0) : hors des bornes.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lino, orientation O, position: (0,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(L) .  . 
+ .  .  . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tomb commence en (1, 0) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tomb avance vers (1, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Tomb
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tomb, orientation S, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(T) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Romain commence en (1, 1) orientation N
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Romain avance vers (1, 0)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Romain, orientation N, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(R) . 
+ .  .  . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Romain commence en (1, 1) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Romain avance vers (1, 2)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Romain, orientation S, position: (1,2) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ .  .  . 
+ . A(R) . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Romain commence en (1, 1) orientation O
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Romain avance vers (0, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Romain, orientation O, position: (0,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+A(R) .  . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Romain commence en (1, 1) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Romain avance vers (2, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Romain, orientation E, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ .  . A(R)
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Alice avance vers (1, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation E, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A)A(B)
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (2, 1) orientation O
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 1) : Alice est déjà présent.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation O, position: (2,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(A)A(B)
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 0) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Indy avance vers (1, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Indy
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Indy, orientation S, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(I) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 1) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Indy, orientation E, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(I) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 1) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Indy, orientation N, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(I) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 1) orientation N
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Indy avance vers (1, 0)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Indy, orientation N, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(I) . 
+ . T(1) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 0) orientation N
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Indy, orientation O, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(I) . 
+ . T(1) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 0) orientation O
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Indy, orientation S, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(I) . 
+ . T(1) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Indy commence en (1, 0) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Indy avance vers (1, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 2 trésor pour Indy
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Indy, orientation S, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(I) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Croft commence en (0, 1) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Croft avance vers (1, 1)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Croft
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Croft, orientation E, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(C) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Croft commence en (1, 1) orientation E
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Croft, orientation S, position: (1,1) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ . A(C) . 
+ .  .  . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Croft commence en (1, 1) orientation S
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Croft avance vers (1, 2)
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Croft, orientation S, position: (1,2) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  .  . 
+ .  .  . 
+ . A(C) . 
+----------------------------------------
+
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (1, 0) orientation S
+2025-06-12 11:24:25.2169 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 1) : Bloqué par un montagne.
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation S, position: (1,0) :
+2025-06-12 11:24:25.2169 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ . A(A) . 
+ .  M  . 
+ .  .  . 
+----------------------------------------
+

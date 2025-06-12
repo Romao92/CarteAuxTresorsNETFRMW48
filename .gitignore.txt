@@ -1,0 +1,15 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.db
+*.cache
+*.log
+*.pdb
+*.tmp
+*.bak
+*.vs/
+TestResults/
+*.DotSettings.user
+_ReSharper*/
