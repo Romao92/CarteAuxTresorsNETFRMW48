@@ -14,3 +14,5 @@ TestResults/
 *.DotSettings.user
 _ReSharper*/
 .vs/
+**/.vs/
+**/*.vs/
