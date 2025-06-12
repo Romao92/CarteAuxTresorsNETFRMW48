@@ -3300,3 +3300,965 @@ A(L)T(2) .
 2025-06-12 11:39:34.5937 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-113934.txt
 2025-06-12 11:39:34.5937 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-113934.txt
 2025-06-12 11:39:34.5937 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Fin des simulations
+2025-06-12 12:14:08.6939 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Debut des simulations
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : input-2aventuriers
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 3 - 4
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 1
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 2 - 3 - 2
+2025-06-12 12:14:08.7125 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Alice - 0 - 0 - E - AADADAA
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Tom - 2 - 2 - N - AGAGADAA
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 2 aventurier(s)
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation E, position: (0,0) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation N
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Tom vers (2, 1) : Bloqué par un montagne.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation N, position: (2,2) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation E, position: (0,0) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation N
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Tom, orientation O, position: (2,2) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Alice, orientation S, position: (0,0) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation O
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (1, 2)
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (1,2) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation S
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Alice avance vers (0, 1)
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation S, position: (0,1) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 2) orientation O
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Tom, orientation S, position: (1,2) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation S
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Alice, orientation O, position: (0,1) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 2) orientation S
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (1, 3)
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation S, position: (1,3) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation O
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (-1, 1) : hors des bornes.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation O, position: (0,1) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 3) orientation S
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Tom, orientation O, position: (1,3) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation O
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (-1, 1) : hors des bornes.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation O, position: (0,1) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 3) orientation O
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (0, 3)
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Tom
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (0,3) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+A(T) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (0, 3) orientation O
+2025-06-12 12:14:08.7236 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Tom vers (-1, 3) : hors des bornes.
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (0,3) :
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+A(T) . T(2)
+----------------------------------------
+
+2025-06-12 12:14:08.7236 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-2aventuriers-20250612-121408.txt
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-2aventuriers-20250612-121408.txt
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : Input-3aventuriers
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 4 - 4
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 2
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 1 - 3 - 3
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 3 - 0 - 1
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Lara - 1 - 1 - S - AADADAGGA
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Bob - 0 - 0 - E - AADAA
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Eve - 3 - 3 - N - AGAADDA
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 3 aventurier(s)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 1) orientation S
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 2)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) .  . 
+T(2)T(3) . A(E)
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:14:08.7396 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation E, position: (0,0) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) .  . 
+T(2)T(3) . A(E)
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 3) orientation N
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (3, 2)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation N, position: (3,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) . A(E)
+T(2)T(3) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 2) orientation S
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 3)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Lara
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,3) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:14:08.7396 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation E, position: (0,0) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 2) orientation N
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Eve, orientation O, position: (3,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation S
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation O, position: (1,3) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation S, position: (0,0) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 2) orientation O
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (2, 2)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation O, position: (2,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  . A(E) . 
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation O
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 2 trésor pour Lara
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation O, position: (0,3) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation S
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Bob avance vers (0, 1)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation S, position: (0,1) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ .  . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (2, 2) orientation O
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (1, 2)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation O, position: (1,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ . A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation N, position: (0,3) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ . A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 1) orientation S
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Bob avance vers (0, 2)
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation S, position: (0,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation O
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Eve, orientation N, position: (1,2) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:14:08.7396 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (0, 2) : Bob est déjà présent.
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation N, position: (0,3) :
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation N
+2025-06-12 12:14:08.7396 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Eve, orientation E, position: (1,2) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation O, position: (0,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation E
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (2, 2)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation E, position: (2,2) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation S, position: (0,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation S
+2025-06-12 12:14:08.7543 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (0, 4) : hors des bornes.
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (0,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_Input-3aventuriers-20250612-121408.txt
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_Input-3aventuriers-20250612-121408.txt
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : input
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 3 - 4
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 2
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 1 - 3 - 3
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Lara - 1 - 1 - S - AADADAGGA
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 1 aventurier(s)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 1) orientation S
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 2)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,2) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ . A(L) . 
+T(2)T(3) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 2) orientation S
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 3)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Lara
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+T(2)A(L) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation S
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation O, position: (1,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+T(2)A(L) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation O
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 2 trésor pour Lara
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation O, position: (0,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation N, position: (0,3) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 2)
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation N, position: (0,2) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation N
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation O, position: (0,2) :
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation O
+2025-06-12 12:14:08.7543 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation S, position: (0,2) :
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation S
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 3 trésor pour Lara
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (0,3) :
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-121408.txt
+2025-06-12 12:14:08.7717 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-121408.txt
+2025-06-12 12:14:08.7717 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Fin des simulations
+2025-06-12 12:15:19.3288 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Debut des simulations
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : input-2aventuriers
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 3 - 4
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 1
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 2 - 3 - 2
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Alice - 0 - 0 - E - AADADAA
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Tom - 2 - 2 - N - AGAGADAA
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 2 aventurier(s)
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation E, position: (0,0) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation N
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Tom vers (2, 1) : Bloqué par un montagne.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation N, position: (2,2) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation E, position: (0,0) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation N
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Tom, orientation O, position: (2,2) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation E
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Alice, orientation S, position: (0,0) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ .  . A(T)
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (2, 2) orientation O
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (1, 2)
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (1,2) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(A) M  . 
+ .  .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 0) orientation S
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Alice avance vers (0, 1)
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation S, position: (0,1) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 2) orientation O
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Tom, orientation S, position: (1,2) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation S
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Alice, orientation O, position: (0,1) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ . A(T) . 
+T(1) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 2) orientation S
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (1, 3)
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation S, position: (1,3) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation O
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (-1, 1) : hors des bornes.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation O, position: (0,1) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 3) orientation S
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Tom, orientation O, position: (1,3) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Alice commence en (0, 1) orientation O
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Alice vers (-1, 1) : hors des bornes.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Alice, orientation O, position: (0,1) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+T(1)A(T)T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (1, 3) orientation O
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Tom avance vers (0, 3)
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Tom
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (0,3) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+A(T) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Tom commence en (0, 3) orientation O
+2025-06-12 12:15:19.3485 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Tom vers (-1, 3) : hors des bornes.
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Tom, orientation O, position: (0,3) :
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+A(A) .  M 
+ .  .  . 
+A(T) . T(2)
+----------------------------------------
+
+2025-06-12 12:15:19.3485 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-2aventuriers-20250612-121519.txt
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-2aventuriers-20250612-121519.txt
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : Input-3aventuriers
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 4 - 4
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 2
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 1 - 3 - 3
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 3 - 0 - 1
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Lara - 1 - 1 - S - AADADAGGA
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Bob - 0 - 0 - E - AADAA
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Eve - 3 - 3 - N - AGAADDA
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 3 aventurier(s)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 1) orientation S
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) .  . 
+T(2)T(3) . A(E)
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:15:19.3750 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation E, position: (0,0) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) .  . 
+T(2)T(3) . A(E)
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 3) orientation N
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (3, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation N, position: (3,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ . A(L) . A(E)
+T(2)T(3) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 2) orientation S
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 3)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Lara
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:15:19.3750 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Bob vers (1, 0) : Bloqué par un montagne.
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation E, position: (0,0) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 2) orientation N
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Eve, orientation O, position: (3,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation S
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation O, position: (1,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation E
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Bob, orientation S, position: (0,0) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  .  . A(E)
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (3, 2) orientation O
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (2, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation O, position: (2,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  . A(E) . 
+T(2)A(L) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation O
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 2 trésor pour Lara
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation O, position: (0,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+A(B) M  . T(1)
+ .  .  M  . 
+ .  . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 0) orientation S
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Bob avance vers (0, 1)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation S, position: (0,1) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ .  . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (2, 2) orientation O
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (1, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation O, position: (1,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ . A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation N, position: (0,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+A(B) .  M  . 
+ . A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Bob commence en (0, 1) orientation S
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Bob avance vers (0, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Bob, orientation S, position: (0,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation O
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Eve, orientation N, position: (1,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:15:19.3750 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (0, 2) : Bob est déjà présent.
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation N, position: (0,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation N
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Eve, orientation E, position: (1,2) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation O, position: (0,3) :
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B)A(E) .  . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Eve commence en (1, 2) orientation E
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Eve avance vers (2, 2)
+2025-06-12 12:15:19.3750 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Eve, orientation E, position: (2,2) :
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation S, position: (0,3) :
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation S
+2025-06-12 12:15:19.3909 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Mouvement impossible pour Lara vers (0, 4) : hors des bornes.
+2025-06-12 12:15:19.3909 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (0,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . T(1)
+ .  .  M  . 
+A(B) . A(E) . 
+A(L)T(2) .  . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_Input-3aventuriers-20250612-121519.txt
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_Input-3aventuriers-20250612-121519.txt
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lecture du fichier d'entrée : input
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: C - 3 - 4
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 1 - 0
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: M - 2 - 1
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 0 - 3 - 2
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: T - 1 - 3 - 3
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ligne traitée: A - Lara - 1 - 1 - S - AADADAGGA
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Début simulation avec 1 aventurier(s)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 1) orientation S
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 2)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,2) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ . A(L) . 
+T(2)T(3) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 2) orientation S
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (1, 3)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 1 trésor pour Lara
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (1,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+T(2)A(L) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation S
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation O, position: (1,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+T(2)A(L) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (1, 3) orientation O
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 2 trésor pour Lara
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation O, position: (0,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation O
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement D de Lara, orientation N, position: (0,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 3) orientation N
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 2)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation N, position: (0,2) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation N
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation O, position: (0,2) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation O
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement G de Lara, orientation S, position: (0,2) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+A(L) .  . 
+T(1)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Aventurier Lara commence en (0, 2) orientation S
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Lara avance vers (0, 3)
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Trésor trouvé!
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - 3 trésor pour Lara
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Après mouvement A de Lara, orientation S, position: (0,3) :
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - État de la carte :
+ .  M  . 
+ .  .  M 
+ .  .  . 
+A(L)T(2) . 
+----------------------------------------
+
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - Ecriture du résultat dans le fichier de sortie : C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-121519.txt
+2025-06-12 12:15:19.3954 [Info] CarteAuxTresorsNETFramework48.LoggerProvider - ✅ Simulation terminée. Résultat écrit dans :C:\Users\romai\Documents\Developpement\CarbonIT\CarbonITCarteAuxTresorsNETFramework48\CarteAuxTresorsNETFramework48\OutputFile\ResultOutput_input-20250612-121519.txt
+2025-06-12 12:15:19.3954 [Warn] CarteAuxTresorsNETFramework48.LoggerProvider - Fin des simulations
