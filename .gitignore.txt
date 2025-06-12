@@ -1,18 +1,31 @@
+# Dossiers générés automatiquement
 bin/
 obj/
+.vs/
 .vscode/
+TestResults/
+logs/
+*.log
+
+# Fichiers de configuration utilisateur
 *.user
 *.suo
-*.db
 *.cache
+*.userosscache
+*.sln.docstates
+
+# Fichiers de cache et de debug
+*.db
 *.log
 *.pdb
 *.tmp
+*.cache
 *.bak
-*.vs/
-TestResults/
-*.DotSettings.user
-_ReSharper*/
-.vs/
+
+# Dossiers de publication
+publish/
+*.publishsettings
+
+# autre
 **/.vs/
 **/*.vs/
